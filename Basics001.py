@@ -21,3 +21,7 @@ z = 'Giri'
 print(x,' is a type of ',type(x))
 print(y,' is a type of ',type(y))
 print(z,' is a type of ',type(z))
+
+z = str(100)
+print(z,' is a type of ',type(z))
+
