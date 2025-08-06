@@ -12,7 +12,7 @@ print(tuple1[2])
 # tuple1[1] = 'Oppo'  # This will raise an error because tuples are immutable
 print(tuple1)
 
-
+names = ('Giri', 'Ravi', 'Sita', 'Giri')
 
 t1 = (1, 2, 3, 4, 5, 1,2,23,3)
 print(t1)
